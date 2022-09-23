@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    background-image: url(./Icons/fondo.jpg);
+
+}
+
+#tittle{
+    font-size: 30px;
+    color: aliceblue;
+    font-weight: 20px;
+}
+
+#text{
+    font-size: 20px;
+    color: aliceblue;
+    font-weight: 20px;
+}
+
+#subtittle{
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: 20px;
+}
