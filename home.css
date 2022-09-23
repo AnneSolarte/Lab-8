@@ -21,3 +21,37 @@ body {
     color: aliceblue;
     font-weight: 20px;
 }
+
+.menu {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    width: 10%;
+    height: 100%;
+    background-color:aqua;
+
+
+
+
+}
+
+.icons {
+    width: 30px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+
+.icon{
+    width: 100%;
+    position: absolute;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.cuerpo {
+    margin-left: 100px;
+}
